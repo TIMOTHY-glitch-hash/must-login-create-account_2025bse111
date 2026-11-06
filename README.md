@@ -28,9 +28,6 @@ must-student-portal/
 ## How to Run
 
 1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/must-student-portal.git
-   ```
 2. Open the folder.
 3. Double-click `index.html` to open it in your browser.
 
@@ -48,5 +45,5 @@ must-student-portal/
 
 ## Author
 
-- **Name:** MULUNGI TIMOTHY 
-- **University:** Mbarara University of Science and Technology (MUST)
+- **Name:** MULUNGI TIMOTHY  2025/bse/111/PS
+
